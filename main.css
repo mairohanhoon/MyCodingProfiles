@@ -1,0 +1,66 @@
+.profile_pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.firstdiv{
+    background-image: linear-gradient(to right, rgb(255, 183, 0), rgb(255, 222, 72));
+    border-radius: 5px;
+    padding: 20px;
+}
+.heading1{
+    color: white;
+    font-family: 'Belanosima', sans-serif;
+    text-align: center;
+    font-size: 60px;
+}
+.para1{
+    color: rgb(0, 53, 102);
+    font-family: 'Belanosima', sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+.para2{
+    color: white;
+    font-family: 'Belanosima', sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+.seconddiv{
+    background-color: rgb(0, 29, 61);
+    padding: 20px;
+    border-radius: 5px;
+}
+.heading2{
+    color: white;
+    font-family: 'Belanosima', sans-serif;
+    text-align: center;
+    font-size: 60px;
+}
+.block1{
+    align-self: center;
+    align-items: center;
+    padding: 10px;
+    background-color: rgb(255, 214, 10);
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    width: 46%;
+}
+.blockheading{
+    color: white;
+    font-family: 'Belanosima', sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+.blockpara{
+    color: white;
+    font-family: 'Belanosima', sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+.block1:hover{
+    background-color: rgb(240, 184, 0);
+    text-shadow: 2px 2px #858585aa;
+}
